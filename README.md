@@ -10,7 +10,8 @@ I've previously worked as a Data Engineer for 2 years and have dabbled in projec
 [![My Skills](https://skillicons.dev/icons?i=java,nodejs,js,ts,py,aws,docker)](https://skillicons.dev)
 
 ## Currently Learning 🌱
-- WIP
+- Container orchestration using Docker and Kubernetes
+- CI/CD setup and management
 <!--
 **anirudh-r5/anirudh-r5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
