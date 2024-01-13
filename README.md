@@ -12,6 +12,7 @@ I've previously worked as a Data Engineer for 2 years and have dabbled in projec
 ## Currently Learning 🌱
 - Container orchestration using Docker and Kubernetes
 - CI/CD setup and management
+- Doing the [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/) to build a full-stack application with end-to-end automated deployment on AWS
 <!--
 **anirudh-r5/anirudh-r5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
