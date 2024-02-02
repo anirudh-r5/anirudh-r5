@@ -7,7 +7,7 @@ I'm Anirudh and I'm currently a MS student majoring in Computer Science from Cal
 I've previously worked as a Data Engineer for 2 years and have dabbled in projects across various areas (full-stack, mobile dev, game dev)
 
 ## My Tech Stack 💻
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,js,ts,py,aws,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,js,ts,py,aws,docker,terraform)](https://skillicons.dev)
 
 ## Currently Learning 🌱
 - Container orchestration using Docker and Kubernetes
