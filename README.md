@@ -9,6 +9,11 @@ I've previously worked as a Data Engineer for 2 years and have dabbled in projec
 ## My Tech Stack 💻
 [![My Skills](https://skillicons.dev/icons?i=java,nodejs,js,ts,py,aws,docker,terraform)](https://skillicons.dev)
 
+- TypeScript/Node.js and Java for server-side development (CRUD applications, chatbots, APIs)
+- React/Next.js for front-end development (webpages, web applications, Electron apps)
+- Python and SQL for ETL and database operations
+- AWS for cloud deployments. Terraform and GitHub Actions for IaC and CI/CD
+
 ## Currently Learning 🌱
 - Container orchestration using Docker and Kubernetes
 - CI/CD setup and management
