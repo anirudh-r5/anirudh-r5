@@ -7,7 +7,7 @@ I'm Anirudh, a grad student majoring in Computer Science at California State Uni
 I've previously worked as a Data Engineer for two years and have dabbled in projects across various areas (full-stack, mobile dev, game dev)
 
 ## My Tech Stack 💻
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,js,ts,py,aws,docker,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,js,ts,py,aws,docker,kubernetes,terraform)](https://skillicons.dev)
 
 - TypeScript/Node.js and Java for server-side development (CRUD applications, chatbots, APIs)
 - React/Next.js for front-end development (webpages, web applications, Electron apps)
