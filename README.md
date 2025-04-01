@@ -2,7 +2,7 @@
 This is my space where I attempt to create something useful 🎆, learn new things 🤔, and (probably) break things along the way 🔨
 
 ## About Me ✨
-I'm Anirudh, a grad student majoring in Computer Science at California State University Fullerton. 📖
+I'm Anirudh, a grad student majoring in Computer Science. 📖
 
 I've previously worked as a Data Engineer for two years and have dabbled in projects across various areas (full-stack, mobile dev, game dev)
 
